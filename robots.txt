@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-0h728u.citysinglescommunity.com/sitemap.xml
